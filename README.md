@@ -28,7 +28,7 @@ https://developers.themoviedb.org/3/getting-started/introduction
 Clone the project
 
 ```bash
-  git clone https://github.com/AnuragRoshan/RecomSystem.git
+  git clone https://github.com/niksam11/MRS.git
 ```
 
 Install Python Libraries
@@ -37,10 +37,10 @@ Install Python Libraries
 pip install sklearn nltk pandas gunicorn flask flask-cors numpy pandas requests
 ```
 
-move into RecomSystem folder
+move into MRS folder
 
 ```bash
-cd RecomSystem
+cd MRS
 ```
 
 move into server and install node dependencies for server side
